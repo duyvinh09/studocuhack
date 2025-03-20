@@ -1,61 +1,45 @@
 <p align="center">
-<img src="https://github.com/danieltyukov/studocuhack/assets/60662998/841574e5-d6cf-4ea9-975a-bcda51bf9240">
+<img src="https://github.com/user-attachments/assets/bb867d6e-891e-4f46-a1bc-a3a715b8c994">
 </p>
 
 #
 
-Studocuhack is a chrome/firefox extension for www.studocu.com and www.studeersnel.nl to get free premium features
+Studocuhack là một tiện ích mở rộng cho Chrome/Firefox dành cho trang web www.studocu.com và www.studeersnel.nl, giúp bạn sử dụng các tính năng premium miễn phí.
 
-**! WHILE RESEARCH IS ONGOING TO RESOLVE ONGOING ISSUES PLEASE SEE A TEMPORARY WAY TO BYPASS THE ISSUES AND GET ALL FEATURES ! 
-SEE: https://github.com/danieltyukov/studocuhack/issues/19**
+# Hướng dẫn cài đặt và sử dụng tiện ích Stuhack trên Chrome
 
-## Features:
-  
-    -Removal of Premium Banner
-    -Bypassing Blur
-    -Downloading Documents
+## Bước 1: Tải và giải nén tiện ích từ GitHub
+1. Mở **GitHub** và tìm ô màu xanh lá cây có chữ **“Code”**.
+2. Chọn **“Download ZIP”** để tải về.
+3. Giải nén tệp ZIP vừa tải xuống.
 
-## Document Download:
-  
-    1) For documents exceeding 20 pages, gradually scroll to the bottom to ensure all images are fully loaded (Rapid scrolling may cause some images not to load)
-    
-    2) Click the 'Download' button to open a document preview in a separate tab
-    
-    3) In the new tab, use the Ctrl + P shortcut to access the print dialog. Choose 'Save as PDF' to download the document
+---
 
-[DOWNLOAD ZIP/XPI FILE FROM HERE](https://github.com/danieltyukov/studocuhack/releases)
+## Bước 2: Cài đặt tiện ích trên Google Chrome
+1. Mở trình duyệt **Google Chrome**.
+2. Truy cập **[chrome://extensions/](chrome://extensions/)** (hoặc vào mục **Tiện ích mở rộng** trong trình duyệt).
+3. Bật **“Chế độ nhà phát triển”** ở góc trên bên phải.
+4. Nhấn vào **“Tải tiện ích đã giải nén”** (*Load unpacked*).
+5. Chọn thư mục đã giải nén từ GitHub và bấm **“Select”** để hoàn tất.
 
-## Chrome Installation:
-    
-    1) Download the file and extract it to a preferred folder
+---
 
-    2) Navigate to the extensions page in Google Chrome by typing (chrome://extensions/) in the address bar
+## 📄 Hướng dẫn tải tài liệu từ Studocu bằng Stuhack
+### 🔹 Kiểm tra và đảm bảo đúng trang web
+- Stuhack **chỉ hỗ trợ** [https://studocu.com/vn](https://studocu.com/vn)
+- **Không hỗ trợ** [https://studocu.vn](https://studocu.vn)
 
-    3) Activate the "Developer Mode" toggle, located at the top-right corner of the extensions page
+### 🔹 Đăng nhập tài khoản
+- Stuhack yêu cầu bạn đăng nhập một tài khoản **Studocu** bất kỳ để hoạt động.
 
-    4) Click on "Load Unpacked" - a new option that becomes visible in the top-left corner after enabling Developer Mode
+### 🔹 Tải tài liệu
+1. Nếu tài liệu dài hơn **20 trang**, hãy **cuộn xuống đến cuối** để tải đầy đủ nội dung.  
+   ⚠ *Lưu ý: Cuộn quá nhanh có thể làm mất hình ảnh.*
+2. Nhấn nút **tải xuống**, tài liệu sẽ mở ở một **tab mới**.
+3. Trong tab mới, nhấn **Ctrl + P**, chọn **Lưu dưới dạng PDF** để tải về.
 
-    5) Navigate to and select the directory where you saved the extension
+---
 
-    6) Happy Studying :)
-
-   ![chrome](https://github.com/danieltyukov/studocuhack/assets/60662998/ea7814b8-9dc4-4e22-8261-8c95569da6a1)
-
-## Firefox Installation:
-        
-    1) Download the (.xpi) file to a preferred folder
-
-    2) Navigate to the extensions page in Firefox by typing (about:addons) in the address bar
-
-    3) Click on the cog icon in the top-left corner of the page and select "Install Add-on From File..." from the drop-down menu that appears
-
-    4) Navigate to and select the directory where you saved the extension (.xpi file)
-
-    5) Navigate to (studocu.com) and press the puzzle icon in the top right and find your plugin in enabled addons
-
-    6) Press the cog icon of the plugin and select the option (Always Allow on studocu.com) -> As shown in the 2nd image below
-
-    7) Happy Studying :)
-
-   ![firefox](https://github.com/danieltyukov/studocuhack/assets/60662998/474a90db-ba21-4e4f-b07d-6cb38e69d5cb)
-   ![firefox-2](https://github.com/danieltyukov/studocuhack/assets/60662998/59579c15-8a99-43e0-8716-d47f3657a253)
+## ⚠️ Lưu ý quan trọng
+✔ **Luôn bật VPN** khi sử dụng Stuhack.  
+✔ **Chỉ truy cập Studocu bằng phiên bản `.com`**, không sử dụng `.vn`.  
